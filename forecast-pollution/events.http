@@ -1,0 +1,11 @@
+GET  http://127.0.0.1:5000/get-fetched-data HTTP/1.1
+Content-Type: application/json 
+
+GET  http://127.0.0.1:5000/get-notification HTTP/1.1
+Content-Type: application/json 
+
+GET  http://127.0.0.1:5000/get-fetched-data/9000000069 HTTP/1.1
+Content-Type: application/json 
+
+GET  http://127.0.0.1:5000/get-predictions HTTP/1.1
+Content-Type: application/json 
