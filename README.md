@@ -2,6 +2,12 @@
 
 This repository includes the back and front end for a project that focuses on gathering, predicting, and showing environmental data to the user.
 
+**Medium articles:**
+
+**- Anomaly detection using Isolation Forest: https://medium.com/@alexia.csmr/anomaly-detection-using-isolation-forest-74800bf6017**
+
+**- Predicting pollution using a Time-Series Analysis model: https://medium.com/@alexia.csmr/predicting-pollution-using-a-time-series-analysis-model-590a654310da**
+
 ## About this project
 
 This project aims to integrate time-series analysis, anomaly detection, and REST API frameworks using Python and React.
